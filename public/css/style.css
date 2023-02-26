@@ -514,13 +514,16 @@ body{
     color: #000dc7;
 }
 .fa-database{
-    color: black
+    color: #0652c5;
 }
 .fa-code{
     color: lightblue;
 }
 .fa-java{
     color: red;
+}
+.fa-react{
+    color: aquamarine;
 }
 @media (max-width: 1000px){
     .skill{
